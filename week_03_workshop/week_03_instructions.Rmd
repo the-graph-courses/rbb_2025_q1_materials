@@ -81,6 +81,6 @@ flextable(freq_df)
 
 # Submitting Workshop 3 Exercise
 
-To submit your work, please upload your own **Rmd file** to the submission page. ***Only submit the Rmd file.***
+To submit your work, please upload your own **Rmd file** and **HTML file** to their respective submission pages.
 
-*Note: Before uploading and submitting your file, make sure the Rmd knits successfully!*
+*Note: Before uploading and submitting your files, make sure the Rmd knits successfully and you are getting the desired HTML output.*
